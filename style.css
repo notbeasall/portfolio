@@ -1,0 +1,40 @@
+    #calc-area{
+        padding: 10px;
+        width: 100%;
+        text-align: center;
+        background: #eee;
+        border: 1px solid steelblue;
+    }
+ 
+    #calc {
+        padding: 10px;
+        width: 410px;
+        display: inline-block;
+        border: 5px solid black;
+    }
+
+    .btn {
+        width: 100px;
+        height: 100px;
+        background: black;
+        display: inline-block;
+        text-align: center;	
+        line-height: 100px;
+        color: white;
+        user-select: none;
+        border: 1px solid steelblue;
+    }
+ 
+    .btn:hover {
+        background: steelblue;
+        color: black;
+    }
+ 
+    #inputVal {
+        width: 400px;
+        font-size: 20px;
+        resize: none;
+        border: 2px solid steelblue;
+        text-align: right;
+        
+    }
